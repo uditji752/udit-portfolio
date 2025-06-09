@@ -1,5 +1,5 @@
 # udit-portfolio
-My Personal Developer Portfolio
+My Personal Portfolio
 <!DOCTYPE html>
 <html lang="en">
 <head>
